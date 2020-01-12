@@ -1,0 +1,6 @@
+C:\Users\cporter\source\repos\Sphere_CNP\Sphere_CNP\bin\Debug\Sphere_CNP.exe.config
+C:\Users\cporter\source\repos\Sphere_CNP\Sphere_CNP\bin\Debug\Sphere_CNP.exe
+C:\Users\cporter\source\repos\Sphere_CNP\Sphere_CNP\bin\Debug\Sphere_CNP.pdb
+C:\Users\cporter\source\repos\Sphere_CNP\Sphere_CNP\obj\Debug\Sphere_CNP.csprojAssemblyReference.cache
+C:\Users\cporter\source\repos\Sphere_CNP\Sphere_CNP\obj\Debug\Sphere_CNP.exe
+C:\Users\cporter\source\repos\Sphere_CNP\Sphere_CNP\obj\Debug\Sphere_CNP.pdb
